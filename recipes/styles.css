@@ -1,0 +1,18 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    background-color: #FFE6A5;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 600px;
+    height: auto;
+    align-self: center;
+}
+
